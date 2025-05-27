@@ -1,1 +1,5 @@
-/data/bitcoindata.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+.DS_Store
